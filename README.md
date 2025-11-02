@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a CS and Physics student interested in applying quantitative modeling and data analysis to complex systems, from physics to financial markets.
+Student at the intersection of Computer Science and Physics, building tools to understand and navigate our complex, data-driven world.
 
 * 🔭 I’m currently working on a **[Telemetry Dashboard](https://github.com/S-Awan/formula-dashboard)** for the Dartmouth Formula Racing team.
 * 🌱 I’m currently learning more about **cloud deployment (AWS/Docker)** and **quantitative modeling techniques**.
